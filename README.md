@@ -1,4 +1,4 @@
-# 📈 Quant Backtest v1.0.0
+# 📈 Quant Backtest MVP
 
 基于 Python、AkShare 和 Backtrader 的 A 股量化策略回测脚本（MVP 版本）
 
